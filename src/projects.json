@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": 1,
+    "title": "VBT Device",
+    "description": "My project for the subject VMKS - bar path vizualizer. Its goal is to track the movement path of a barbell/dumbell and then display it with additional info. To achieve it esp32 and arduino nano are used to track both ends of the object. The vizualization is going to be done within a website",
+    "technologies": ["./img/languages/arduino-plain.svg", "./img/languages/nestjs-plain.svg", "./img/languages/typescript-original.svg"],
+    "image": "./img/projects/VBT1.jpg",
+    "github": "https://github.com/Venko15/Bar-Path-Vizualizer"
+  },
+  {
+    "id": 2,
+    "title": "Pizzeria website(in progress)",
+    "description": "My diploma project for 12th grade",
+    "image": "./img/projects/pizzeria.png",
+    "technologies":["./img/languages/react-original.svg", "./img/languages/postgresql-original.svg", "./img/languages/tailwindcss-plain.svg", "./img/languages/typescript-original.svg", "./img/languages/dot-net-plain.svg"],
+    "github": "https://github.com/VeniNovakov/Diploma-project"
+  },
+  {
+    "id": 3,
+    "title": "Multi webapp",
+    "description": "a scaled(vertically) web app that makes simple requests to an APIs",
+    "image": "./img/projects/multiwebapp.png",
+    "technologies": ["./img/languages/arduino-plain.svg", "./img/languages/nestjs-plain.svg", "./img/languages/typescript-original.svg", "./img/languages/docker-original.svg", "./img/languages/kubernetes-plain.svg"],
+    "github": "https://github.com/Venko15/Vot-project"
+  }
+]
